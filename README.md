@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hey! I'm Anushka, a curious developer who loves turning ideas into real, impactful applications.<br>I enjoy exploring Java, Python, C/C++, web development, databases, and anything that pushes me to think differently and build better.<br><br>When I'm not coding, you’ll find me:<br>✨ reading about new technologies & trends<br>✨ solving DSA problems<br>✨ building fun side projects and experimenting with new concepts<br><br>I love learning, creating, and growing through every project I work on. 🚀💛
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/066/640/423/small/girl-developer-or-software-engineer-mascot-cartoon-character-template-vector.jpg">
 
 
 ## 🌐 Socials:
