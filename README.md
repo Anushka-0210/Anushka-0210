@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hey! I'm Anushka, a curious developer who loves turning ideas into real, impactful applications.<br>I enjoy exploring Java, Python, C/C++, web development, databases, and anything that pushes me to think differently and build better.<br><br>When I'm not coding, you’ll find me:<br>✨ reading about new technologies & trends<br>✨ solving DSA problems<br>✨ building fun side projects and experimenting with new concepts<br><br>I love learning, creating, and growing through every project I work on. 🚀💛
 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka-sharma210) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:02anushka10@gmail.com) 
 
